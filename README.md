@@ -11,7 +11,7 @@ Rendre le script exécutable avec la commande suivante : chmod +x reload_fxserve
 Pour ajouter des horaires à 12H et 18H, il faut aller sur votre terminal et vous connecter avec votre user et SURTOUT PAS EN ROOT (dans mon exemple "dev").
 cela va vous afficher " dev@localhost:~$ " et taper la commande 'crontab -e'
 
-Et rentre, ces lignes suivantes :
+Et rentre, ces lignes suivantes en pensant bien a enlever l'espace entre les deux lignes :
 
 00 12 * * * /home/dev/reload_fxserver.sh >> /var/log/fxreload/fxreloadlog
 
