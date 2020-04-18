@@ -14,6 +14,7 @@ cela va vous afficher " dev@localhost:~$ " et taper la commande 'crontab -e'
 Et rentre, ces lignes suivantes :
 
 00 12 * * * /home/dev/reload_fxserver.sh >> /var/log/fxreload/fxreloadlog
+
 00 18 * * * /home/dev/reload_fxserver.sh >> /var/log/fxreload/fxreloadlog
 
 Pensez bien a modifier le  /home/dev par votre nom de votre user.
