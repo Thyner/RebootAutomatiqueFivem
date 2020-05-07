@@ -31,7 +31,7 @@ Quand j'ai suivi le tuto avec le lien mis plus haut, j'ai eu quelques soucis
 j'ai donc fait un script un peut modifier par rapport à celui d'origine.
 
 Un tuto vidéo et en français a était mis en place pour ceux qui préfère voir en réel ce qui se passe.
-
+https://www.youtube.com/watch?v=nrY3O4rMq2g
 
 Création du journal de log
 
